@@ -2,6 +2,11 @@
 Changelog for package rosduct
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2018-08-19)
+------------------
+* latching was a stupid idea
+* Contributors: Marc Hanheide
+
 0.0.2 (2018-08-19)
 ------------------
 * latch remote topics
