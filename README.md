@@ -1,3 +1,26 @@
+## rosduct (kinetic) - 0.0.5-0
+
+The packages in the `rosduct` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic rosduct` on `Fri, 05 Oct 2018 16:20:13 -0000`
+
+The `rosduct` package was released.
+
+Version of package(s) in repository `rosduct`:
+
+- upstream repository: https://github.com/LCAS/rosduct.git
+- release repository: https://github.com/lcas-releases/rosduct.git
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## rosduct (kinetic) - 0.0.4-0
 
 The packages in the `rosduct` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic rosduct` on `Mon, 03 Sep 2018 14:43:44 -0000`
