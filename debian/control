@@ -1,0 +1,13 @@
+Source: ros-melodic-rosduct
+Section: misc
+Priority: optional
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), python-pydispatcher, python-ws4py, ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-rospy, ros-melodic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rosduct
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-pydispatcher, python-ws4py, ros-melodic-message-runtime, ros-melodic-rospy, ros-melodic-std-msgs
+Description: ROSduct, the duct of ROS messages.
+ ROSduct acts as a proxy to expose ROS topics, services and parameters from a remote roscore into a local roscore via the [rosbridge protocol](https://github.com/RobotWebTools/rosbridge_suite/blob/develop/ROSBRIDGE_PROTOCOL.md).
