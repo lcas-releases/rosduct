@@ -1,3 +1,26 @@
+## rosduct (melodic) - 0.0.6-1
+
+The packages in the `rosduct` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic rosduct` on `Tue, 12 Nov 2019 17:50:58 -0000`
+
+The `rosduct` package was released.
+
+Version of package(s) in repository `rosduct`:
+
+- upstream repository: https://github.com/LCAS/rosduct.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## rosduct (kinetic) - 0.0.6-0
 
 The packages in the `rosduct` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic rosduct` on `Fri, 12 Oct 2018 17:40:17 -0000`
